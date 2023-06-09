@@ -6,10 +6,10 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "en"
 
 # The name of this wonderful theme ;-).
-theme = "themes/hugo-scroll"
+theme = "../../themes/hugo-scroll"
 
 # The browser tab name
-title = "Jane Doe - Nutrition Coach & Chef Consultant"
+title = "THE PROJECT"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
