@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = ""
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -6,7 +6,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "en"
 
 # The name of this wonderful theme ;-).
-theme = "hugo-scroll"
+theme = "themes/hugo-scroll"
 
 # The browser tab name
 title = "Jane Doe - Nutrition Coach & Chef Consultant"
